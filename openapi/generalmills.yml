@@ -1,0 +1,15 @@
+openapi: 3.1.0
+info:
+  title: General Mills API
+  description: >-
+    General Mills is a leading global food company. This is a placeholder
+    specification as General Mills does not currently publish a public
+    developer API.
+  version: 1.0.0
+  contact:
+    name: General Mills
+    url: https://www.generalmills.com
+servers:
+  - url: https://www.generalmills.com
+    description: General Mills Website
+paths: {}
