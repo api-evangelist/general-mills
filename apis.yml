@@ -1,15 +1,13 @@
 aid: general-mills
-url: 
-  https://raw.githubusercontent.com/api-evangelist/general-mills/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/general-mills/refs/heads/main/apis.yml
 apis:
   - aid: general-mills:website
     name: General Mills Website
     tags:
-      - Food Products
       - Consumer Goods
       - CPG
-    image: 
-      https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+      - Food Products
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://www.generalmills.com
     humanURL: https://www.generalmills.com
     properties:
