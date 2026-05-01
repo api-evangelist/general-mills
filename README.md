@@ -2,7 +2,7 @@
 
 General Mills is a leading global food company that manufactures and markets branded consumer foods sold through retail stores. The company's portfolio includes well-known brands such as Cheerios, Betty Crocker, Pillsbury, Haagen-Dazs, Nature Valley, Old El Paso, and Progresso. General Mills operates in over 100 countries and serves consumers worldwide.
 
-**URL:** [https://www.generalmills.com](https://www.generalmills.com)
+**URL:** [APIs.yml](https://raw.githubusercontent.com/api-evangelist/general-mills/refs/heads/main/apis.yml)
 
 ## Scope
 
@@ -12,25 +12,28 @@ General Mills is a leading global food company that manufactures and markets bra
 
 ## Tags
 
-- Food Products
 - Consumer Goods
 - CPG
+- Food Products
 - Cereal
 - Baking
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-General Mills does not currently offer a public developer API. The company primarily operates as a consumer packaged goods manufacturer and uses EDI and supply chain integrations with retail partners.
+General Mills does not currently publish a public developer API portal. The company primarily operates as a consumer packaged goods manufacturer and uses EDI and direct supply chain integrations with retail partners.
 
 ## Common Properties
 
-- [General Mills Website](https://www.generalmills.com)
+- [Website](https://www.generalmills.com)
+- [Brands](https://www.generalmills.com/brands)
 
 ## Maintainers
 
-**API Evangelist** - info@apievangelist.com
+**FN:** API Evangelist
+
+**Email:** info@apievangelist.com
