@@ -10,6 +10,10 @@ tags:
   - Baking
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/GeneralMills
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/general-mills
   - type: Website
     url: https://www.generalmills.com
   - type: Brands
