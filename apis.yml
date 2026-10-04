@@ -28,11 +28,20 @@ url: https://raw.githubusercontent.com/api-evangelist/general-mills/refs/heads/m
 modified: '2026-04-28'
 tags:
   - Consumer Goods
+  - Consumer Packaged Goods
+  - Food Products
+  - Cereal
+  - Baking
+  - Fortune 500
+  - Food and Beverage
+tags_raw:
+  - Consumer Goods
   - CPG
   - Food Products
   - Cereal
   - Baking
   - Fortune 500
+  - Food and Beverage
 apis: []
 common:
   - type: DomainSecurity
